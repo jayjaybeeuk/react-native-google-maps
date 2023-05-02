@@ -7,9 +7,7 @@
 At the moment this app uses [`react-native-google-maps-directions`](https://github.com/tiaanduplessis/react-native-google-maps-directions), but we should use the newer
 Directions component for [`react-native-maps`](https://github.com/airbnb/react-native-maps/) – This can draw a route between two coordinates, powered by the Google Maps Directions API.
 
-# react-native-google-maps-direction
-
-## Basic Usage
+## Basic Usage - react-native-google-maps-direction
 
 Import `MapViewDirections` and render it as a child of a `MapView` component. The mandatory `MapViewDirections` props are:
 
